@@ -1,3 +1,3 @@
 <?php
-echo "hocam ara verelim mi ?";
+echo "kaç dk ara olsun ?";
 ?>
